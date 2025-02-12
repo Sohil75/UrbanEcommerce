@@ -21,7 +21,7 @@ const createPaymentLink = async (orderId) => {
       email:true
     },
     reminder_enable:true,
-    callback_url:`http://localhost:3000`,
+    callback_url:`https://magenta-gumdrop-935dcd.netlify.app/`,
     callback_method:'get',
     };
 
