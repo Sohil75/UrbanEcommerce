@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const DEPLOYED='https://ecommercebackedn.onrender.com'
+const DEPLOYED='https://urbanecommerce-1.onrender.com'
 const LOCALHOST='http://localhost:5454'
 
 export const API_BASE_URL = LOCALHOST;
